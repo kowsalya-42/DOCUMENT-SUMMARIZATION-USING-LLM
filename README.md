@@ -1,3 +1,4 @@
+# 📑 Document Summarization App Using LLM
 Welcome to the Document Summarization App! This Streamlit application allows you to easily upload PDF files and get concise summaries using advanced language models. Perfect for quickly extracting the essence of lengthy documents.
 
 ## ✨ Features
@@ -15,15 +16,21 @@ Welcome to the Document Summarization App! This Streamlit application allows you
 To get started with this app, ensure you have the following Python packages installed:
 ***pip install streamlit langchain transformers torch***
 ## 🚀 How to Run
-```
+
 **Clone the Repository**
+```
 git clone https://github.com/yourusername/document-summarization-app.git
+
 cd document-summarization-app
+```
 **Install Dependencies**
+```
 pip install -r requirements.txt
+```
 **Run the Application**
+```
 streamlit run app.py
-Some basic Git commands are:
+
 ```
 
 Upload a PDF and click the "Summarize" button to get your document summary.
@@ -35,6 +42,7 @@ Upload a PDF and click the "Summarize" button to get your document summary.
 **main():** The main function that sets up the Streamlit interface and handles user interactions.
 
 ##📸 Screenshots
+
 **🚀 Sleek Front End**
 ![Screenshot 2024-08-27 204053](https://github.com/user-attachments/assets/0ac76a51-a0de-4f99-ab28-bcd63c8c5abd)
 **📄 Upload Your PDF Like a Pro**
@@ -43,4 +51,5 @@ Upload a PDF and click the "Summarize" button to get your document summary.
 ![Screenshot 2024-08-27 204310](https://github.com/user-attachments/assets/4a1d2375-c483-4b3c-be35-c2ee42a8a62b)
 
 🔗 Links
+
 Documentation: https://huggingface.co/MBZUAI/LaMini-Flan-T5-248M
