@@ -76,6 +76,6 @@ Upload a PDF and click the "Summarize" button to get your document summary.
 ### ✨ Your Document Summarized in a Snap
 ![Screenshot 2024-08-27 204310](https://github.com/user-attachments/assets/4a1d2375-c483-4b3c-be35-c2ee42a8a62b)
 
-🔗 Links
+## 🔗 Links
 
 Documentation: https://huggingface.co/MBZUAI/LaMini-Flan-T5-248M
