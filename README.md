@@ -26,7 +26,6 @@ Welcome to the Document Summarization App! This Streamlit application allows you
 ## 📋 Requirements
 To get started with this app, ensure you have the following Python packages installed:
 ```
-pip install
 streamlit
 langchain
 transformers
