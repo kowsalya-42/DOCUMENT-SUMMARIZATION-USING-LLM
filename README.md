@@ -49,7 +49,6 @@ pip install -r requirements.txt
 **Run the Application**
 ```
 streamlit run app.py
-
 ```
 
 Upload a PDF and click the "Summarize" button to get your document summary.
