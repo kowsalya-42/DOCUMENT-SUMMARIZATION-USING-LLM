@@ -3,24 +3,24 @@ Welcome to the Document Summarization App! This Streamlit application allows you
 
 
 ## ✨ Features
-**PDF Upload:** Seamlessly upload your PDF documents.
+- **PDF Upload:** Seamlessly upload your PDF documents.
 
-**Text Summarization:** Get a summarized version of your document using state-of-the-art language models.
+- **Text Summarization:** Get a summarized version of your document using state-of-the-art language models.
 
-**Live PDF Display:** View your uploaded PDFs directly in the app.
+- **Live PDF Display:** View your uploaded PDFs directly in the app.
 
-**User-Friendly Interface:** Designed with a clean and intuitive UI for a smooth experience.
+- **User-Friendly Interface:** Designed with a clean and intuitive UI for a smooth experience.
 
 ## 🛠️ Technology Stack
-**Streamlit:** For building interactive web applications.
+- **Streamlit:** For building interactive web applications.
 
-**LangChain:** For processing and summarizing text from documents.
+- **LangChain:** For processing and summarizing text from documents.
 
-**Transformers:** For using T5 model to generate summaries.
+- **Transformers:** For using T5 model to generate summaries.
 
-**PyTorch:** For deep learning computations.
+- **PyTorch:** For deep learning computations.
 
-**Base64:** For encoding PDF files for display.
+- **Base64:** For encoding PDF files for display.
 
 
 ## 📋 Requirements
@@ -56,13 +56,13 @@ Upload a PDF and click the "Summarize" button to get your document summary.
 
 ## 📝 Code Explanation
 
-**file_preprocessing(file):** Loads and preprocesses the PDF document, splitting it into manageable chunks.
+- **file_preprocessing(file):** Loads and preprocesses the PDF document, splitting it into manageable chunks.
 
-**llm_pipeline(filepath):** Uses the T5 model to generate a summary of the preprocessed text.
+- **llm_pipeline(filepath):** Uses the T5 model to generate a summary of the preprocessed text.
 
-**displayPDF(file):** Displays the uploaded PDF within the app using base64 encoding.
+- **displayPDF(file):** Displays the uploaded PDF within the app using base64 encoding.
 
-**main():** The main function that sets up the Streamlit interface and handles user interactions.
+- **main():** The main function that sets up the Streamlit interface and handles user interactions.
 
 
 ## 📸 Screenshots
