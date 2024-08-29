@@ -3,14 +3,22 @@ Welcome to the Document Summarization App! This Streamlit application allows you
 
 ## ✨ Features
 **PDF Upload:** Seamlessly upload your PDF documents.
+
 **Text Summarization:** Get a summarized version of your document using state-of-the-art language models.
+
 **Live PDF Display:** View your uploaded PDFs directly in the app.
+
 **User-Friendly Interface:** Designed with a clean and intuitive UI for a smooth experience.
+
 ## 🛠️ Technology Stack
 **Streamlit:** For building interactive web applications.
+
 **LangChain:** For processing and summarizing text from documents.
+
 **Transformers:** For using T5 model to generate summaries.
+
 **PyTorch:** For deep learning computations.
+
 **Base64:** For encoding PDF files for display.
 ## 📋 Requirements
 To get started with this app, ensure you have the following Python packages installed:
@@ -41,7 +49,7 @@ Upload a PDF and click the "Summarize" button to get your document summary.
 **displayPDF(file):** Displays the uploaded PDF within the app using base64 encoding.
 **main():** The main function that sets up the Streamlit interface and handles user interactions.
 
-##📸 Screenshots
+## 📸 Screenshots
 
 **🚀 Sleek Front End**
 ![Screenshot 2024-08-27 204053](https://github.com/user-attachments/assets/0ac76a51-a0de-4f99-ab28-bcd63c8c5abd)
